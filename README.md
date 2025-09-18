@@ -2,8 +2,7 @@
 *A machine learning project from the Introduction to Machine Learning course at EPFL*  
 
 This project explores **binary weather prediction**: given weather data from **day 1**, predict if it rains on **day 2**.  
-We built and compared several machine learning models in Julia, ranging from simple logistic regression to neural networks,  
-and submitted predictions to a Kaggle competition hosted for the course.  
+We built and compared several machine learning models in Julia, ranging from simple logistic regression to neural networks and submitted predictions to a Kaggle competition hosted for the course.  
 
 📂 **Core code:** [`rain.jl`](rain.jl)  
 📊 **Figures:** [`figures/`](figures/)  
@@ -21,7 +20,7 @@ and submitted predictions to a Kaggle competition hosted for the course.
 
 - **Models explored:**  
   - Logistic classifier (baseline)  
-  - Multilayer perceptrons with varying depth, width, optimizers, and activation functions  
+  - Multilayer perceptrons with varying depth, width, optimizers and activation functions  
 
 - **Evaluation strategy:**  
   - Random seed control for reproducibility (`Random.seed!(10)`)  
@@ -41,7 +40,7 @@ and submitted predictions to a Kaggle competition hosted for the course.
 
 ## 📂 Explore the Project
 
-- [`rain.jl`](rain.jl): main Julia script for preprocessing, fitting, and predicting  
+- [`rain.jl`](rain.jl): main Julia script for preprocessing, fitting and predicting  
 - [`figures/`](figures/): generated plots from preprocessing and analysis  
 - [`report.pdf`](report.pdf): detailed academic report of the project  
 - [`docs/README-original.md`](docs/README-original.md): original project README for archival  
