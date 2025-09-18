@@ -52,7 +52,7 @@ and submitted predictions to a Kaggle competition hosted for the course.
 
 ## 🙌 Team
 
-This project was completed by **Alexander Odermatt & Tim Brunner**  
+This project was completed by **Tim Brunner & Alexander Odermatt**  
 as part of the **Introduction to Machine Learning** course at **EPFL**.  
 
 ---
